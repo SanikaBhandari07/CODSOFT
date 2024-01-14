@@ -28,7 +28,7 @@ public class Project1 {
 
                 if (random == n) {
                     System.out.print("Yeah.....U win"); // If Random No & Guessed No is Same
-                    score += 20;
+                    score=(6-i)*20;
                 }
 
                 else {
